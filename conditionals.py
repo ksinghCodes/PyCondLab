@@ -11,6 +11,6 @@ elif(num%5==0):
 elif(num%3==0):
     print("Fizz")
 else:
-    print("num)
+    print("num")
 
 
